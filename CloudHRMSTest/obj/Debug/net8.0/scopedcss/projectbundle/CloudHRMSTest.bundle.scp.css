@@ -1,0 +1,147 @@
+/* _content/CloudHRMSTest/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-wdspuk7tug] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-wdspuk7tug] {
+  color: #0077cc;
+}
+
+.btn-primary[b-wdspuk7tug] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-wdspuk7tug], .nav-pills .show > .nav-link[b-wdspuk7tug] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-wdspuk7tug] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-wdspuk7tug] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-wdspuk7tug] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-wdspuk7tug] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-wdspuk7tug] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/CloudHRMSTest/Views/Shared/_LayoutAdmin.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-iq8sftsula] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-iq8sftsula] {
+  color: #0077cc;
+}
+
+.btn-primary[b-iq8sftsula] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-iq8sftsula], .nav-pills .show > .nav-link[b-iq8sftsula] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-iq8sftsula] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-iq8sftsula] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-iq8sftsula] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-iq8sftsula] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-iq8sftsula] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/CloudHRMSTest/Views/Shared/_LayoutEmployee.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-zyvbuu81q6] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-zyvbuu81q6] {
+  color: #0077cc;
+}
+
+.btn-primary[b-zyvbuu81q6] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-zyvbuu81q6], .nav-pills .show > .nav-link[b-zyvbuu81q6] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-zyvbuu81q6] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-zyvbuu81q6] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-zyvbuu81q6] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-zyvbuu81q6] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-zyvbuu81q6] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
